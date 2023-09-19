@@ -9,6 +9,7 @@ import other from '/@/utils/other';
 import ElementPlus from 'element-plus';
 import 'element-plus/dist/index.css';
 import '/@/theme/index.scss';
+import 'fontawesome-4.7/css/font-awesome.min.css'
 import VueGridLayout from 'vue-grid-layout';
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 
